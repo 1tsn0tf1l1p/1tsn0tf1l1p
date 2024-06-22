@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Python**
 
-- 👨‍💻 All of my projects are available at [filipcobanin.tech](filipcobanin.tech)
+- 👨‍💻 All of my projects are available at [https://filipcobanin.tech](https://filipcobanin.tech)
 
 - 📫 How to reach me **fcobanin@gmail.com**
 
@@ -22,6 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1tsn0tf1l1p&show_icons=true&locale=en&layout=compact" alt="1tsn0tf1l1p" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1tsn0tf1l1p&show_icons=true&locale=en" alt="1tsn0tf1l1p" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1tsn0tf1l1p&" alt="1tsn0tf1l1p" /></p>
 
